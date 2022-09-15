@@ -1,0 +1,23 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="29" stroke="#2A2A63" stroke-width="2"/>
+<rect x="16.5" y="47.5" width="35" height="27" rx="2.5" transform="rotate(-90 16.5 47.5)" fill="#FFA1A9" stroke="#2A2A63"/>
+<path d="M23.5 39V23C23.5 22.1716 24.1716 21.5 25 21.5H41.5V40.5H25C24.1716 40.5 23.5 39.8284 23.5 39Z" fill="#FFA1A9" stroke="#2A2A63"/>
+<line x1="13" y1="17.5" x2="20" y2="17.5" stroke="#2A2A63"/>
+<line x1="39" y1="20.5" x2="43" y2="20.5" stroke="#2A2A63"/>
+<line x1="41" y1="24.5" x2="44" y2="24.5" stroke="#2A2A63"/>
+<line x1="39.5" y1="47.0104" x2="39.5" y2="13" stroke="#2A2A63"/>
+<line x1="41.5" y1="47.0104" x2="41.5" y2="13" stroke="#2A2A63"/>
+<line x1="13" y1="20.5" x2="20" y2="20.5" stroke="#2A2A63"/>
+<line x1="13" y1="39.5" x2="20" y2="39.5" stroke="#2A2A63"/>
+<line x1="13" y1="42.5" x2="20" y2="42.5" stroke="#2A2A63"/>
+<line x1="39.5" y1="44" x2="39.5" y2="42" stroke="#FFA1A9"/>
+<line x1="40.5" y1="42" x2="40.5" y2="40" stroke="#FFA1A9"/>
+<line x1="40.5" y1="23" x2="40.5" y2="21" stroke="#FFA1A9"/>
+<line x1="27" y1="21.5" x2="29" y2="21.5" stroke="#FFA1A9"/>
+<path d="M48.5 17.5V18.5H46.5V17.5C46.5 16.9477 46.9477 16.5 47.5 16.5C48.0523 16.5 48.5 16.9477 48.5 17.5Z" fill="#FFA1A9" stroke="#2A2A63"/>
+<path d="M46.5 18.5H48.5V38.5H46.5V18.5Z" fill="#FFA1A9" stroke="#2A2A63"/>
+<path d="M48.0377 39.5L47.5 40.7417L46.9623 39.5H48.0377Z" fill="#FFA1A9" stroke="#2A2A63"/>
+<line x1="48.5" y1="22" x2="48.5" y2="20" stroke="#FFA1A9"/>
+<path d="M48 19L50 20V23.5V25.5" stroke="#2A2A63"/>
+<line x1="47.5" y1="21" x2="47.5" y2="19" stroke="#FFA1A9"/>
+</svg>

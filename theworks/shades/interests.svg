@@ -1,0 +1,13 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="29" stroke="#2A2A63" stroke-width="2"/>
+<path d="M40 27C40 33.1588 35.4427 38 30 38C24.5573 38 20 33.1588 20 27C20 20.8412 24.5573 16 30 16C35.4427 16 40 20.8412 40 27Z" stroke="#2A2A63" stroke-width="2"/>
+<path d="M34 46C34 47.4602 32.4289 49 30 49C27.5711 49 26 47.4602 26 46C26 44.5398 27.5711 43 30 43C32.4289 43 34 44.5398 34 46Z" stroke="#2A2A63" stroke-width="2"/>
+<path d="M23 42H37V44C37 44.5523 36.5523 45 36 45H24C23.4477 45 23 44.5523 23 44V42Z" fill="#FFA1A9" stroke="#2A2A63" stroke-width="2"/>
+<rect x="20" y="37" width="20" height="5" rx="2.5" fill="#FFA1A9" stroke="#2A2A63" stroke-width="2"/>
+<line x1="13.3927" y1="17.7544" x2="17.4885" y2="20.6223" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+<line x1="46.6517" y1="32.9194" x2="42.3504" y2="30.3701" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+<line x1="15" y1="25" x2="17" y2="25" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+<line x1="45" y1="25" x2="43" y2="25" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+<line x1="13.2456" y1="32.6223" x2="17.3413" y2="29.7544" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+<line x1="46.274" y1="17.4073" x2="42.4073" y2="20.5773" stroke="#2A2A63" stroke-width="2" stroke-linecap="round"/>
+</svg>
